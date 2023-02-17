@@ -1,7 +1,7 @@
 # Text2Color
 This repository is for an assignment for a computational linguistics course.
 
-In this code, I made amodel that predicts RGB value from Japanese traditional color names (珊瑚色, 露草色, etc.).
+In this code, I made a model that predict RGB value from Japanese traditional color names (珊瑚色, 露草色, etc.).
 
 ![](overview.png)
 
