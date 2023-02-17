@@ -9,4 +9,4 @@ In this code, I made amodel that predicts RGB value from Japanese traditional co
 ```$ python train.py```
 
 # When you test the model
-Please see the jupyter code
+Please see the jupyter code (```$ test.ipynb```).
