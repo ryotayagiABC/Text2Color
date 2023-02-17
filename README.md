@@ -5,7 +5,7 @@ In this code, I made a model that predict RGB value from Japanese traditional co
 
 ![](overview.png)
 
-#Dataset
+# Dataset
 I collected Japanese color names from the following sites and created my own dataset from the following site. (https://www.colordic.org/w)
 
 # When you train the model
